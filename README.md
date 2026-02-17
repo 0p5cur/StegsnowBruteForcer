@@ -1,7 +1,7 @@
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=cyberpoul.StegsnowBruteForcer)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=0p5cur.StegsnowBruteForcer)
 ## StegsnowBruteForcer                                                         
 
-1. `git clone https://github.com/cyberpoul/StegsnowBruteForcer.git`
+1. `git clone https://github.com/0p5cur/StegsnowBruteForcer.git`
 
 2. `cd StegsnowBruteForcer`
 
